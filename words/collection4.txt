@@ -1,0 +1,42 @@
+
+chain split
+consensus
+cryptography
+decentralization
+encryption
+genesis block
+immutability
+ledger
+merkle tree
+nonce
+oracle
+peer
+public ledger
+reward
+seed
+signature
+address
+confirmation
+gas
+mining pool
+public node
+transaction fee
+zero-knowledge proof
+layer-1
+layer-2
+bridge
+side chain
+interoperability
+sharding
+zk-rollups
+optimistic rollups
+cross-chain
+finality
+hash function
+light node
+masternode
+off-chain
+on-chain
+peg
+timestamp
+    
